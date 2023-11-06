@@ -1,2 +1,2 @@
-# Doc_GPT
+# DocGPT
 Final Year Project
