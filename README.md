@@ -1,2 +1,2 @@
-# Document_GPT
+# Doc_GPT
 Final Year Project
